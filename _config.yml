@@ -1,1 +1,9 @@
-theme: jekyll-theme-leap-day
+theme                     : jekyll-theme-leap-day
+
+# Site Settings
+locale                    : "fa-IR"
+title                     : "Matlab MIP"
+name                      : "سعید محققی Saeed Mohagheghi"
+
+description               : "پردازش تصاویر پزشکی در متلب"
+show_downloads            : true
