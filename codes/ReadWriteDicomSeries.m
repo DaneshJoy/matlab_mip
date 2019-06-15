@@ -4,7 +4,7 @@ clc         %empty command window
 
 %% Read Dicom Series
 %----------------------------------------------------------------------
-prefix = '../Images/DICOM/liver/image_';
+prefix = '../images/DICOM/liver/image_';
 fnum = 128;
 ext = '';
 
@@ -55,7 +55,7 @@ colorbar
 
 %% Write slices to new folder
 %----------------------------------------------------------------------
-new_prefix = '../Images/DICOM/liver2/image_';
+new_prefix = '../images/DICOM/liver2/image_';
 ext = '.dcm';
 
 % Create new directory
