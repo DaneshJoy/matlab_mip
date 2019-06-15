@@ -5,14 +5,14 @@ clear, close, clc
 %% Load Images
 
 % Meta
-% info = metaImageInfo('../Images/Meta/patient.mhd');
+% info = metaImageInfo('../images/Meta/patient.mhd');
 % img = metaImageRead(info);
-% info = metaImageInfo('../Images/Meta/liver.mhd');
+% info = metaImageInfo('../images/Meta/liver.mhd');
 % mask = metaImageRead(info);
 
 % Analyze
-img = analyze75read('../Images/Analyze/patient.hdr');
-mask = analyze75read('../Images/Analyze/liver.hdr');
+img = analyze75read('../images/Analyze/patient.hdr');
+mask = analyze75read('../images/Analyze/liver.hdr');
 
 % Normalizing the image is important for further processings
 % mat2gray will do the job: convert to double and intensity range between 0 and 1
