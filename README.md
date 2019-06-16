@@ -31,10 +31,10 @@
 
 ||||
 | :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/4iv-lLXwBXc) | [آپارات](http://aparat.com/v/Dj456) | قسمت 1: خواندن تصاویر DICOM |
-| [یوتیوب](https://youtu.be/MXkqdvfbYDE) | [آپارات](http://aparat.com/v/0ogUO) | قسمت 2:  نمایش تصاویر با colormap |
-| [یوتیوب](https://youtu.be/XIlDMjVjE7g) | [آپارات](http://aparat.com/v/hpAzq) | قسمت 3: ذخیره تصاویر DICOM |
-| [یوتیوب](https://youtu.be/1VMKtzPR_JU) | [آپارات](http://aparat.com/v/PzB5k) | قسمت 4: بریدن تصاویر با استفاده از ماسک (ROI) |
+| [یوتیوب](https://youtu.be/4iv-lLXwBXc) | [آپارات](http://aparat.com/v/Dj456) | &#x202b; قسمت 1: خواندن تصاویر DICOM |
+| [یوتیوب](https://youtu.be/MXkqdvfbYDE) | [آپارات](http://aparat.com/v/0ogUO) | &#x202b; قسمت 2:  نمایش تصاویر با colormap |
+| [یوتیوب](https://youtu.be/XIlDMjVjE7g) | [آپارات](http://aparat.com/v/hpAzq) | &#x202b; قسمت 3: ذخیره تصاویر DICOM |
+| [یوتیوب](https://youtu.be/1VMKtzPR_JU) | [آپارات](http://aparat.com/v/PzB5k) | &#x202b; قسمت 4: بریدن تصاویر با استفاده از ماسک (ROI) |
 | [یوتیوب](https://youtu.be/5s175rTiXvs) | [آپارات](http://aparat.com/v/tQb63) | قسمت 5: اعمال ماسک بر روی تصویر |
 | [یوتیوب](https://youtu.be/FOn0twfgYO4) | [آپارات](http://aparat.com/v/2LPuv) | قسمت 6: نمایش سه بعدی تصاویر |
 
@@ -44,9 +44,9 @@
 
 ||||
 | :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/V9IH3G7E-Ps) | [آپارات](http://aparat.com/v/0jNRf) | قسمت 1: خواندن و نوشتن فرمت آنالایز HDR |
-| [یوتیوب](https://youtu.be/FEpj4mdzUJk) | [آپارات](http://aparat.com/v/It0eO) | قسمت 2: نمایش تصاویر بر روی هم Overlay |
-| [یوتیوب](https://youtu.be/o-Aiy4eltKQ) | [آپارات](http://aparat.com/v/C1tBW) | قسمت 3: آستانه گذاری تصاویر Thresholding |
+| [یوتیوب](https://youtu.be/V9IH3G7E-Ps) | [آپارات](http://aparat.com/v/0jNRf) | &#x202b; قسمت 1: خواندن و نوشتن فرمت آنالایز HDR |
+| [یوتیوب](https://youtu.be/FEpj4mdzUJk) | [آپارات](http://aparat.com/v/It0eO) | &#x202b; قسمت 2: نمایش تصاویر بر روی هم Overlay |
+| [یوتیوب](https://youtu.be/o-Aiy4eltKQ) | [آپارات](http://aparat.com/v/C1tBW) | &#x202b; قسمت 3: آستانه گذاری تصاویر Thresholding |
 | [یوتیوب](https://youtu.be/khtKq8tNHsU) | [آپارات](http://aparat.com/v/eAkjS) | قسمت 4: بهبود کنتراست تصاویر |
 | [یوتیوب](https://youtu.be/Xzv3n0mmck0) | [آپارات](http://aparat.com/v/pZzwB) | قسمت 5: اعمال فیلتر بر روی تصاویر |
 | [یوتیوب](https://youtu.be/MeiAmX2YNp0) | [آپارات](http://aparat.com/v/z5fBV) | قسمت 6: نرمالیزه کردن تصاویر |
