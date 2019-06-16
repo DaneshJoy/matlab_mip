@@ -1,5 +1,5 @@
                                                                
-# MatlabMIP
+# Matlab MIP
 **کدهای کلاس پردازش تصاویر پزشکی با متلب**
 
 
@@ -8,8 +8,6 @@
 --------------------
 
 **دانلود کدها:** <button name="button" onclick="https://github.com/DaneshJoy/matlabmip/zipball/master">zip فایل</button> <a class="github-button" href="https://github.com/DaneshJoy/matlabmip/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DaneshJoy/MatlabMIP on GitHub">Download</a>
-
-> <p> &#x202b; برای اجرای کدها باید ورژن متلب بالاتر از 2016a باشد</p>
 
 -------------------------------------
 
@@ -20,11 +18,12 @@
 
 ||||
 | :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/Qfki1clmsPs) | [آپارات](https://www.aparat.com/v/kl1eE) | قسمت 1: ایجاد سیگنال سینوسی در متلب |
-| [یوتیوب](https://youtu.be/27PBMl7l6sk) | [آپارات](https://www.aparat.com/v/oYOB7) | قسمت 2: نکات محاسبه تبدیل فوریه در متلب |
-| [یوتیوب](https://youtu.be/yYXC3fu3Dpo) | [آپارات](https://www.aparat.com/v/B63Lo) | قسمت 3: تشخیص پیک ساده و نمایش نتایج |
-| [یوتیوب](https://youtu.be/4_hRsE792kA) | [آپارات](https://www.aparat.com/v/iZROx) | قسمت 4: تاثیر نویز در حوزه های زمان و فرکانس |
-
+| [یوتیوب](https://youtu.be/b927dRAXwNY) | [آپارات](http://aparat.com/v/I4S8d) | قسمت 0: مقدمه |
+| [یوتیوب](https://youtu.be/JTSoTTFx1CE) | [آپارات](http://aparat.com/v/68AKo) | قسمت 1: فرمت های مرسوم تصاویر پزشکی |
+| [یوتیوب](https://youtu.be/WHgDRzEVgMQ) | [آپارات](http://aparat.com/v/4HMFO) | قسمت 2: صفحه ها و جهت های آناتومیکی |
+| [یوتیوب](https://youtu.be/plIgjus59gM) | [آپارات](http://aparat.com/v/p3V2t) | قسمت 3: نحوه اضافه کردن تولباکس ها به متلب |
+| [یوتیوب](https://youtu.be/ZQbXGj571ng) | [آپارات](http://aparat.com/v/NvdKb) | قسمت 4: نحوه استفاده از تولباکس های معرفی شده |
+| [یوتیوب](https://youtu.be/3-BFaQU2zjQ) | [آپارات](http://aparat.com/v/c03zb) | قسمت 5: نحوه نمایش تصاویر |
 
 -------------------------------------
 
@@ -32,28 +31,30 @@
 
 ||||
 | :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/c-qYhtngcjU) | [آپارات](https://www.aparat.com/v/ihHDt) |  &#x202b; قسمت 1: حذف ترند سیگنال ECG  |
-| [یوتیوب](https://youtu.be/ASyLt3KfTBk) | [آپارات](https://www.aparat.com/v/qyzd2) |  &#x202b; قسمت 2: تشخیص پیک های R و S در سیگنال ECG  |
-| [یوتیوب](https://youtu.be/a4GSkAt845E) | [آپارات](https://www.aparat.com/v/I8BkE) |  &#x202b; قسمت 3: حذف نویز فرکانس بالا و تشخیص پیک Q |
-| [یوتیوب](https://youtu.be/BenNWPkpSoM) | [آپارات](https://www.aparat.com/v/zr1Tv) | قسمت 4: گزارش خطای تشخیص پیک و مشخصات زمانی پیک ها |
- 
+| [یوتیوب](https://youtu.be/4iv-lLXwBXc) | [آپارات](http://aparat.com/v/Dj456) | قسمت 1: خواندن تصاویر DICOM |
+| [یوتیوب](https://youtu.be/MXkqdvfbYDE) | [آپارات](http://aparat.com/v/0ogUO) | قسمت 2:  نمایش تصاویر با colormap |
+| [یوتیوب](https://youtu.be/XIlDMjVjE7g) | [آپارات]() | قسمت 3: ذخیره تصاویر DICOM |
+| [یوتیوب](https://youtu.be/1VMKtzPR_JU) | [آپارات](http://aparat.com/v/PzB5k) | قسمت 4: بریدن تصاویر با استفاده از ماسک (ROI) |
+| [یوتیوب](https://youtu.be/5s175rTiXvs) | [آپارات](http://aparat.com/v/tQb63) | قسمت 5: اعمال ماسک بر روی تصویر |
+| [یوتیوب](https://youtu.be/FOn0twfgYO4 | [آپارات](http://aparat.com/v/2LPuv) | قسمت 6: نمایش سه بعدی تصاویر |
 
 -------------------------------------
 
-### 1- جلسه سوم
+### 3- جلسه سوم
 
 ||||
 | :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/Qfki1clmsPs) | [آپارات](https://www.aparat.com/v/kl1eE) | قسمت 1: ایجاد سیگنال سینوسی در متلب |
-| [یوتیوب](https://youtu.be/27PBMl7l6sk) | [آپارات](https://www.aparat.com/v/oYOB7) | قسمت 2: نکات محاسبه تبدیل فوریه در متلب |
-| [یوتیوب](https://youtu.be/yYXC3fu3Dpo) | [آپارات](https://www.aparat.com/v/B63Lo) | قسمت 3: تشخیص پیک ساده و نمایش نتایج |
-| [یوتیوب](https://youtu.be/4_hRsE792kA) | [آپارات](https://www.aparat.com/v/iZROx) | قسمت 4: تاثیر نویز در حوزه های زمان و فرکانس |
-
+| [یوتیوب](https://youtu.be/V9IH3G7E-Ps) | [آپارات](http://aparat.com/v/0jNRf) | قسمت 1: خواندن و نوشتن فرمت آنالایز HDR |
+| [یوتیوب](https://youtu.be/FEpj4mdzUJk) | [آپارات](http://aparat.com/v/It0eO) | قسمت 2: نمایش تصاویر بر روی هم Overlay |
+| [یوتیوب](https://youtu.be/o-Aiy4eltKQ) | [آپارات](http://aparat.com/v/C1tBW) | قسمت 3: آستانه گذاری تصاویر Thresholding |
+| [یوتیوب](https://youtu.be/khtKq8tNHsU) | [آپارات](http://aparat.com/v/eAkjS) | قسمت 4: بهبود کنتراست تصاویر |
+| [یوتیوب](https://youtu.be/Xzv3n0mmck0) | [آپارات](http://aparat.com/v/pZzwB) | قسمت 5: اعمال فیلتر بر روی تصاویر |
+| [یوتیوب](https://youtu.be/MeiAmX2YNp0) | [آپارات](http://aparat.com/v/z5fBV) | قسمت 6: نرمالیزه کردن تصاویر |
 
 -------------------------------------
 
 <p align="center">
-  <a href="https://daneshjoy.github.io">
+  <a href="https://daneshjoy.ir">
     <img src="./res/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
   </a>
 </p>
