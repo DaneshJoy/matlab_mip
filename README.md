@@ -7,7 +7,7 @@
 
 --------------------
 
-**دانلود کدها:** <button name="button" onclick="https://github.com/DaneshJoy/matlabmip/zipball/master">zip فایل</button> <a class="github-button" href="https://github.com/DaneshJoy/matlabmip/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DaneshJoy/MatlabMIP on GitHub">Download</a>
+**دانلود کدها:** <button name="button" onclick="https://github.com/DaneshJoy/matlabmip/archive/master.zip">zip فایل</button> <a class="github-button" href="https://github.com/DaneshJoy/matlabmip/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DaneshJoy/MatlabMIP on GitHub">Download</a>
 
 -------------------------------------
 
