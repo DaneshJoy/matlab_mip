@@ -31,7 +31,7 @@
 
 ||||
 | :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/4iv-lLXwBXc) | [آپارات](http://aparat.com/v/Dj456) | &#x202b; قسمت 1: خواندن تصاویر DICOM |
+| [یوتیوب](https://youtu.be/4iv-lLXwBXc) | [آپارات](http://aparat.com/v/auOYe) | &#x202b; قسمت 1: خواندن تصاویر DICOM |
 | [یوتیوب](https://youtu.be/MXkqdvfbYDE) | [آپارات](http://aparat.com/v/0ogUO) | &#x202b; قسمت 2:  نمایش تصاویر با colormap |
 | [یوتیوب](https://youtu.be/XIlDMjVjE7g) | [آپارات](http://aparat.com/v/hpAzq) | &#x202b; قسمت 3: ذخیره تصاویر DICOM |
 | [یوتیوب](https://youtu.be/1VMKtzPR_JU) | [آپارات](http://aparat.com/v/PzB5k) | قسمت 4: بریدن تصاویر با استفاده از ماسک |
