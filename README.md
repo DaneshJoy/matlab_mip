@@ -3,7 +3,7 @@
 **کدهای کلاس پردازش تصاویر پزشکی با متلب**
 
 
-وب سایت: http://daneshjoy.ir/matlabmip
+وب سایت: http://daneshjoy.ir/matla/bmip
 
 --------------------
 
